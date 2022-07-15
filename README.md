@@ -8,6 +8,7 @@
 
 **환경변수설정 예제:**
 ```
+원래 이런식으로 환경변수 윈도우즈에 환경설정을 해서 VStudio에서 설정을해야하는데 일부는 반영이 되어있지 않습니다.
 CUSTOM_DSO_PATH = {$HOME}\houdini19.0\dso
 HOUDINI_DSO_PATH = %CUSTOM_DSO_PATH%;&
 H19.0_PATH = C:\Program Files\Side Effects Software\Houdini %H19.0_VERSION% 
